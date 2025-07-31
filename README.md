@@ -31,10 +31,7 @@ calculator/
 ├── style.css      → All styling rules
 └── script.js      → JavaScript logic for calculator functionality
 
-![Uploading calculatorimg.png…]()
-📝 How to Use
-Clone or download this repository
+<img width="610" height="688" alt="calculatorimg" src="https://github.com/user-attachments/assets/a534cca7-f8af-4ca4-bf3a-ceb38a1c8d69" />
 
-Open index.html in any browser
 
-Use the calculator by clicking the buttons
+
