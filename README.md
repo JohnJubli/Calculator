@@ -30,13 +30,8 @@ calculator/
 ├── index.html     → Main HTML file
 ├── style.css      → All styling rules
 └── script.js      → JavaScript logic for calculator functionality
-📸 Screenshot (Optional)
-You can add a screenshot here using:
 
-markdown
-Copy
-Edit
-![Calculator Screenshot] calculatorimg.png
+![Uploading calculatorimg.png…]()
 📝 How to Use
 Clone or download this repository
 
